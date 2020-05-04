@@ -1,0 +1,16 @@
+{ 
+    
+    "bg": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   289, 299  ,  289, 259  ,  329, 259  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   175, 202  ,  175, 162  ,  215, 162  ]
+        }
+    ]
+}
